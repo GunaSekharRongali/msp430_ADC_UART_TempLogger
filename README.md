@@ -4,7 +4,6 @@ A simple embedded C++ project for MSP430 that reads the internal temperature sen
 
 ---
 
-## 📁 Project Structure
 
 ### Files Included
 
@@ -33,7 +32,6 @@ A simple embedded C++ project for MSP430 that reads the internal temperature sen
 
 ---
 
-## ⚙️ How It Works
 
 ### Initialization
 
